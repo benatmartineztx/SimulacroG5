@@ -1,3 +1,3 @@
-simulacro = "me quier0 m0rir"
+simulacros = "me quier0 m0rir"
 
-print (simulacro)
+print (simulacros)

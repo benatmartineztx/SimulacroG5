@@ -1,4 +1,5 @@
 simulacrossss = "me quier0 m0rir"
+simulacrossss2 = "ahora mismoo"
 
 print (simulacrossss)
 
@@ -13,3 +14,6 @@ crud = ("1 Create Persona \n" +
 opt = input("Selecciona opción: ")
 
 print(crud)
+print (simulacrossss, simulacrossss2)
+
+hola = "hola"
